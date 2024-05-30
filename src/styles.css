@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.seleccionado {
+    background-color: #1f2937; /* Cambia esto al color de fondo deseado */
+    color: #f2f2f2;
+  }
